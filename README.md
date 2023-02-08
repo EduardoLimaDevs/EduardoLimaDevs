@@ -1,3 +1,7 @@
+<img src="https://mentorama.com.br/blog/wp-content/uploads/2021/12/Arte-capa.png">
+
+
+
 ### Ola! Eu sou Eduardo lima, seja Bem-vindo 👋
 
 - 🧑🏻‍💻 Desenvolvedor Front-end
@@ -28,7 +32,5 @@ Tecnologias que eu uso no meu dia a dia
   <a href = "mailto:duts16.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-silva-6b3075240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5511952903043"><img src="https://img.shields.io/badge/WhatsApp-11952903043?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>  
-  
- ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
   
 </div>
