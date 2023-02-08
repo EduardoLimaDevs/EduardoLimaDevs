@@ -1,7 +1,3 @@
-<img src="https://mentorama.com.br/blog/wp-content/uploads/2021/12/Arte-capa.png">
-
-
-
 ### Ola! Eu sou Eduardo lima, seja Bem-vindo 👋
 
 - 🧑🏻‍💻 Desenvolvedor Front-end
