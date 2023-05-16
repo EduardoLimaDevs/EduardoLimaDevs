@@ -4,11 +4,6 @@
 - 🧑🏻‍🎓 Estudante Análise e Desenvolvimento de Sistemas
 - 📧 Contate-me no e-mail: eduardosilva-lima@hotmail.com
 
-<div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoLimaDevs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EduardoLimaDevs&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=graywhite&hide_border=true" width="313" />
