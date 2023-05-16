@@ -29,5 +29,3 @@ Tecnologias que eu uso no meu dia a dia
   <a href="https://wa.me/+5511952903043"><img src="https://img.shields.io/badge/WhatsApp-11952903043?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>  
   
 </div>
-
-
