@@ -27,3 +27,7 @@ Tecnologias que eu uso no meu dia a dia
   <a href="https://www.linkedin.com/in/eduardo-silva-6b3075240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5511952903043"><img src="https://img.shields.io/badge/WhatsApp-11952903043?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>  
   </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=13dev&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13dev&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
