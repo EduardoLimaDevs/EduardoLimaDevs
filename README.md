@@ -4,6 +4,7 @@
 - 🧑🏻‍🎓 Estudante Análise e Desenvolvimento de Sistemas
 - 📧 Contate-me no e-mail: eduardosilva-lima@hotmail.com
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=dracula
  <br>
 Tecnologias que eu uso no meu dia a dia
 </br>
