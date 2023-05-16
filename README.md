@@ -22,6 +22,7 @@ Tecnologias que eu uso no meu dia a dia
   ##
  
 <div> 
+  (https://)github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=dracula
   <a href="https://discord.gg/Frango-Style#1794" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:duts16.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-silva-6b3075240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,4 +30,3 @@ Tecnologias que eu uso no meu dia a dia
   
 </div>
 
-github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=dracula
