@@ -29,4 +29,4 @@ Tecnologias que eu uso no meu dia a dia
   
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=dracula)
