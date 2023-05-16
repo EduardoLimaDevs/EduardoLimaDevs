@@ -18,7 +18,7 @@ Tecnologias que eu uso no meu dia a dia
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  (https://)github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&theme=dracula
+  
   ##
  
 <div> 
