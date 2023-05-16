@@ -5,7 +5,7 @@
 - 📧 Contate-me no e-mail: eduardosilva-lima@hotmail.com
 
 <div>
-<a href="https://beacons.ai/EduardoLimaDevs">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoLimaDevs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaDevs&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
